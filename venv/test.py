@@ -4,4 +4,4 @@ squares[-3:]
 
 squares
 
-print(squares[-3:])
+print(squares[-3:])ca
